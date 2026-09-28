@@ -1,2 +1,3 @@
 Welcome to Git Collaborative Project
 Feature-A changes added
+Feature-B changes added
